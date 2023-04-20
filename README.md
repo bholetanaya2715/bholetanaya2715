@@ -1,4 +1,14 @@
-Hi 👋 My name is Tanaya Bhole =============================  Front end developer -------------------  welcome to my Profile ! , I am a graduate at Stevens Institute of technology and My field of study is MS in Computer Science. During my current tenure at Stevens I have interned as a Frontend Software developer at TekInvaderz LLC. My area of work was in Frontend development using Javascript, ReactJs, NodeJs as my primary techstack. I have almost 1 year experience developing web applications using HTML5, CSS3, TailwindCSS and other web technologies. I do like graphic design a lot and make doodles and graphics in my free time.  * 🌍  I'm based in New York * 🖥️  See my portfolio at [Dashboard](http://tanaya-dashboard.netlify.app/) * ✉️  You can contact me at [bholetanaya2715@gmail.com](mailto:bholetanaya2715@gmail.com) * 🧠  I'm learning Angular * 🤝  I'm open to collaborating on projects
+Hi 👋 My name is Tanaya Bhole
+============================= 
+
+Front end developer 
+-------------------  
+
+welcome to my Profile ! , I am a graduate at Stevens Institute of technology and My field of study is MS in Computer Science. During my current tenure at Stevens I have interned as a Frontend Software developer at TekInvaderz LLC. My area of work was in Frontend development using Javascript, ReactJs, NodeJs as my primary techstack. I have almost 1 year experience developing web applications using HTML5, CSS3, TailwindCSS and other web technologies. I do like graphic design a lot and make doodles and graphics in my free time. 
+* 🌍  I'm based in New York 
+* 🖥️  See my portfolio at [tanaya-Dashboard](http://tanaya-dashboard.netlify.app/)
+* ✉️  You can contact me at [bholetanaya2715@gmail.com](mailto:bholetanaya2715@gmail.com) 
+* 🧠  I'm learning Angular * 🤝  I'm open to collaborating on projects
 
 ### Skills  
 
