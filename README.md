@@ -8,7 +8,8 @@ welcome to my Profile ! , I am a graduate at Stevens Institute of technology and
 * 🌍  I'm based in New York 
 * 🖥️  See my portfolio at [tanaya-Dashboard](http://tanaya-dashboard.netlify.app/)
 * ✉️  You can contact me at [bholetanaya2715@gmail.com](mailto:bholetanaya2715@gmail.com) 
-* 🧠  I'm learning Angular * 🤝  I'm open to collaborating on projects
+* 🧠  I'm learning Angular
+* 🤝  I'm open to collaborating on projects
 
 ### Skills  
 
