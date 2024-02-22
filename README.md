@@ -17,12 +17,12 @@ welcome to my Profile ! , I am a graduate at Stevens Institute of technology and
  **Socials** 
  
  <p align="left"> <a href="https://www.github.com/bholetanaya2715" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/life_long_fabulous" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tanayabhole/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
- 
+ <!---
 # Badges
-
+<!--
 <b>My GitHub Stats</b>
-
+<
 <a href="http://www.github.com/bholetanaya2715"><img src="https://github-readme-stats.vercel.app/api?username=bholetanaya2715&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=581c87&hide_border=true&show_icons=true" alt="bholetanaya2715's GitHub stats" /></a>
 <a href="http://www.github.com/bholetanaya2715"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bholetanaya2715&stroke=facc15&background=581c87&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 <a href="http://www.github.com/bholetanaya2715"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bholetanaya2715&bg_color=581c87&color=facc15&line=ec4899&point=facc15&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/bholetanaya2715" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bholetanaya2715&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/bholetanaya2715" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bholetanaya2715&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> --->
